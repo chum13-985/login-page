@@ -33,20 +33,20 @@
     text-align: center;
     font-size: 2.5em;
     font-weight: 600;
-    color: #e6f32b;
+    color: #f09e5b;
 }
 .login .inputbox input{
     width: 100%;
     padding: 10px 20px;
     outline: none;
     font-size: 1.25em;
-    color: #e6f32b;
+    color: #f09e5b;
     border-radius: 5px;
     border: none;
     margin-bottom: 30px;
 }
 .login .inputbox input::placeholder{
-    color: #e6f32b;
+    color: #f09e5b;
     font-size: 17px;
 }
 #btn{
@@ -54,14 +54,14 @@
     border: none;
     outline: none;
     color: white;
-    background-color: #e5f31b;
+    background-color: #f09e5b;
     font-size: 1.25em;
     font-weight: 500;
     transition: 0.5s;
     cursor: pointer;
 }
 #btn:hover{
-    background-color: #f3fc73;
+    background-color: #f09e5b;
 }
 .bottom-content{
     display: flex;
@@ -69,7 +69,7 @@
 }
 .bottom-content a{
     font-size: 1.25em;
-    color: #e5f31b;
+    color: #f09e5b;
     font-weight: 500;
     text-decoration: none;
 }
